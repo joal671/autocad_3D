@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectName>Project1</ProjectName>
+  <ProjectDescription>N/C</ProjectDescription>
+  <ProjectVersion>92</ProjectVersion>
+  <ProjectVersionMinor>1</ProjectVersionMinor>
+  <ProjectParts>
+    <ProjectPart name="PnId" fileName="C:\Users\giane\OneDrive\Escritorio\joseph\autocad plant 3d\PROYECTOS\Project1\PIP_Metric_PnIdPart.xml" relativeFileName="PIP_Metric_PnIdPart.xml" uncFileName="" />
+    <ProjectPart name="Piping" fileName="C:\Users\giane\OneDrive\Escritorio\joseph\autocad plant 3d\PROYECTOS\Project1\Metric_PipingPart.xml" relativeFileName="Metric_PipingPart.xml" uncFileName="" />
+    <ProjectPart name="Iso" fileName="C:\Users\giane\OneDrive\Escritorio\joseph\autocad plant 3d\PROYECTOS\Project1\IsoPart.xml" relativeFileName="IsoPart.xml" uncFileName="" />
+    <ProjectPart name="Ortho" fileName="C:\Users\giane\OneDrive\Escritorio\joseph\autocad plant 3d\PROYECTOS\Project1\Metric_OrthoPart.xml" relativeFileName="Metric_OrthoPart.xml" uncFileName="" />
+    <ProjectPart name="Misc" fileName="C:\Users\giane\OneDrive\Escritorio\joseph\autocad plant 3d\PROYECTOS\Project1\MiscPart.xml" relativeFileName="MiscPart.xml" uncFileName="" />
+  </ProjectParts>
+  <ProjectPartDirectories>
+    <ProjectPartDirectory name="SpecSheets" directoryName="C:\Users\giane\OneDrive\Escritorio\joseph\autocad plant 3d\PROYECTOS\Project1\Spec Sheets" relativeDirectoryName="Spec Sheets" uncDirectoryName="" />
+    <ProjectPartDirectory name="Ortho" directoryName="C:\Users\giane\OneDrive\Escritorio\joseph\autocad plant 3d\PROYECTOS\Project1\Orthos\DWGs" relativeDirectoryName="Orthos\DWGs" uncDirectoryName="" />
+    <ProjectPartDirectory name="Related Files" directoryName="C:\Users\giane\OneDrive\Escritorio\joseph\autocad plant 3d\PROYECTOS\Project1\Related Files" relativeDirectoryName="Related Files" uncDirectoryName="" />
+  </ProjectPartDirectories>
+</Project>

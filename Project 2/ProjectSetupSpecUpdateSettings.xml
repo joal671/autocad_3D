@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpecUpdateSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SizeSettingDataSet>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="EngineeringItems" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="PipeRunComponent">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Adapter">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="BleedRing">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="BlindDisk">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Cap">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Coupling">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Cross" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Crossover">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Elbow" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="PipeBend" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="ElbowSideOutlet">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Flange">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="BlindFlange">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Instrument">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="InlineInstrument">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Nipple">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Olet" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="OrificePlate">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Pipe" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Plug">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Reducer" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Swage">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="SpacerDisk">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="SpectacleBlind">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Sleeve">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Strainer">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Support" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="SingleBranchFitting" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Lateral">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Tee">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="TeeCrossover">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Wye">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="TeeSideOutlet">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Valve" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="ACP">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Fasteners">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Gasket">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Buttweld" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Socketweld" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="FusionWeld" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="TapWeld" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="ReinforcementRing">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="BackingRing">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Clamp">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Collar" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="StubEnd" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="BoltSet" msdata:CaseSensitive="False" msdata:Locale="es-PE">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Thread">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="SlipOn">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Glue">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Universal">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Gland">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Property" type="xs:string" minOccurs="0" />
+                  <xs:element name="Property_x0020_Name" type="xs:string" minOccurs="0" />
+                  <xs:element name="Update_x0020_Automatically" type="xs:boolean" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <NewDataSet>
+        <EngineeringItems diffgr:id="EngineeringItems1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>CompatibleStandard</Property>
+          <Property_x0020_Name>CompatibleStandard</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>ContentIsoSymbolDefinition</Property>
+          <Property_x0020_Name>ContentIsoSymbolDefinition</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Property>DesignPressureFactor</Property>
+          <Property_x0020_Name>DesignPressureFactor</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Property>DesignStd</Property>
+          <Property_x0020_Name>DesignStd</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Property>EndType</Property>
+          <Property_x0020_Name>EndType</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Property>EngagementLength</Property>
+          <Property_x0020_Name>EngagementLength</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Property>Facing</Property>
+          <Property_x0020_Name>Facing</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Property>FlangeStd</Property>
+          <Property_x0020_Name>FlangeStd</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Property>FlangeThickness</Property>
+          <Property_x0020_Name>FlangeThickness</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Property>GasketStd</Property>
+          <Property_x0020_Name>GasketStd</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+          <Property>ItemCode</Property>
+          <Property_x0020_Name>ItemCode</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+          <Property>LengthUnit</Property>
+          <Property_x0020_Name>LengthUnit</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+          <Property>Manufacturer</Property>
+          <Property_x0020_Name>Manufacturer</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+          <Property>MatchingPipeOd</Property>
+          <Property_x0020_Name>MatchingPipeOd</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+          <Property>Material</Property>
+          <Property_x0020_Name>Material</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+          <Property>MaterialCode</Property>
+          <Property_x0020_Name>MaterialCode</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+          <Property>NominalDiameter</Property>
+          <Property_x0020_Name>NominalDiameter</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+          <Property>NominalUnit</Property>
+          <Property_x0020_Name>NominalUnit</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems19" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+          <Property>PartCategory</Property>
+          <Property_x0020_Name>PartCategory</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems20" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+          <Property>PartFamilyLongDesc</Property>
+          <Property_x0020_Name>PartFamilyLongDesc</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems21" msdata:rowOrder="20" diffgr:hasChanges="inserted">
+          <Property>PartSizeLongDesc</Property>
+          <Property_x0020_Name>PartSizeLongDesc</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems22" msdata:rowOrder="21" diffgr:hasChanges="inserted">
+          <Property>PortName</Property>
+          <Property_x0020_Name>PortName</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems23" msdata:rowOrder="22" diffgr:hasChanges="inserted">
+          <Property>PressureClass</Property>
+          <Property_x0020_Name>PressureClass</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems24" msdata:rowOrder="23" diffgr:hasChanges="inserted">
+          <Property>Schedule</Property>
+          <Property_x0020_Name>Schedule</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems25" msdata:rowOrder="24" diffgr:hasChanges="inserted">
+          <Property>ShortDescription</Property>
+          <Property_x0020_Name>ShortDescription</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems26" msdata:rowOrder="25" diffgr:hasChanges="inserted">
+          <Property>Status</Property>
+          <Property_x0020_Name>Status</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems27" msdata:rowOrder="26" diffgr:hasChanges="inserted">
+          <Property>WallThickness</Property>
+          <Property_x0020_Name>WallThickness</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems28" msdata:rowOrder="27" diffgr:hasChanges="inserted">
+          <Property>Weight</Property>
+          <Property_x0020_Name>Weight</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <EngineeringItems diffgr:id="EngineeringItems29" msdata:rowOrder="28" diffgr:hasChanges="inserted">
+          <Property>WeightUnit</Property>
+          <Property_x0020_Name>WeightUnit</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </EngineeringItems>
+        <PipeRunComponent diffgr:id="PipeRunComponent1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </PipeRunComponent>
+        <Coupling diffgr:id="Coupling1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Length</Property>
+          <Property_x0020_Name>Length</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Coupling>
+        <Cross diffgr:id="Cross1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>BranchAngle1</Property>
+          <Property_x0020_Name>BranchAngle1</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Cross>
+        <Cross diffgr:id="Cross2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>Length</Property>
+          <Property_x0020_Name>Length</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Cross>
+        <Elbow diffgr:id="Elbow1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>CurveRadius</Property>
+          <Property_x0020_Name>CurveRadius</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Elbow>
+        <Elbow diffgr:id="Elbow2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>PathAngle</Property>
+          <Property_x0020_Name>PathAngle</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Elbow>
+        <Elbow diffgr:id="Elbow3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Property>SegmentCount</Property>
+          <Property_x0020_Name>SegmentCount</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Elbow>
+        <PipeBend diffgr:id="PipeBend1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>LinearWeight</Property>
+          <Property_x0020_Name>LinearWeight</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </PipeBend>
+        <PipeBend diffgr:id="PipeBend2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>LinearWeightUnit</Property>
+          <Property_x0020_Name>LinearWeightUnit</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </PipeBend>
+        <Olet diffgr:id="Olet1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>CurveRadius</Property>
+          <Property_x0020_Name>CurveRadius</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Olet>
+        <Olet diffgr:id="Olet2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>Length</Property>
+          <Property_x0020_Name>Length</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Olet>
+        <Olet diffgr:id="Olet3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Property>PartSubType</Property>
+          <Property_x0020_Name>PartSubType</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Olet>
+        <Pipe diffgr:id="Pipe1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Length</Property>
+          <Property_x0020_Name>Length</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Pipe>
+        <Pipe diffgr:id="Pipe2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>LinearWeight</Property>
+          <Property_x0020_Name>LinearWeight</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Pipe>
+        <Pipe diffgr:id="Pipe3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Property>LinearWeightUnit</Property>
+          <Property_x0020_Name>LinearWeightUnit</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Pipe>
+        <Pipe diffgr:id="Pipe4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Property>MinCutLength</Property>
+          <Property_x0020_Name>MinCutLength</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Pipe>
+        <Pipe diffgr:id="Pipe5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Property>UseFixedLength</Property>
+          <Property_x0020_Name>UseFixedLength</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Pipe>
+        <Reducer diffgr:id="Reducer1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Eccentricity</Property>
+          <Property_x0020_Name>Eccentricity</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Reducer>
+        <Reducer diffgr:id="Reducer2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>Length</Property>
+          <Property_x0020_Name>Length</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Reducer>
+        <Swage diffgr:id="Swage1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Eccentricity</Property>
+          <Property_x0020_Name>Eccentricity</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Swage>
+        <Support diffgr:id="Support1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Comment</Property>
+          <Property_x0020_Name>Comment</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>Fixed</Property>
+          <Property_x0020_Name>Fixed</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Property>Length</Property>
+          <Property_x0020_Name>Length</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Property>LinearWeight</Property>
+          <Property_x0020_Name>LinearWeight</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Property>LinearWeightUnit</Property>
+          <Property_x0020_Name>LinearWeightUnit</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Property>MaxLength</Property>
+          <Property_x0020_Name>MaxLength</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Property>MinLength</Property>
+          <Property_x0020_Name>MinLength</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Property>PartSubType</Property>
+          <Property_x0020_Name>PartSubType</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Property>Reference</Property>
+          <Property_x0020_Name>Reference</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Property>SupportDetail</Property>
+          <Property_x0020_Name>SupportDetail</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <Support diffgr:id="Support11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+          <Property>SupportType</Property>
+          <Property_x0020_Name>SupportType</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Support>
+        <SingleBranchFitting diffgr:id="SingleBranchFitting1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>BranchAngle1</Property>
+          <Property_x0020_Name>BranchAngle1</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </SingleBranchFitting>
+        <SingleBranchFitting diffgr:id="SingleBranchFitting2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>BranchAngle2</Property>
+          <Property_x0020_Name>BranchAngle2</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </SingleBranchFitting>
+        <SingleBranchFitting diffgr:id="SingleBranchFitting3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Property>Length</Property>
+          <Property_x0020_Name>Length</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </SingleBranchFitting>
+        <Tee diffgr:id="Tee1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Eccentricity</Property>
+          <Property_x0020_Name>Eccentricity</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Tee>
+        <Valve diffgr:id="Valve1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>ActuatorHeight</Property>
+          <Property_x0020_Name>ActuatorHeight</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>ActuatorType</Property>
+          <Property_x0020_Name>ActuatorType</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Property>ActuatorWidth</Property>
+          <Property_x0020_Name>ActuatorWidth</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Property>Code</Property>
+          <Property_x0020_Name>Code</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Property>ControlValve</Property>
+          <Property_x0020_Name>ControlValve</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Property>EndConnections</Property>
+          <Property_x0020_Name>EndConnections</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Property>Failure</Property>
+          <Property_x0020_Name>Failure</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Property>FlowDependent</Property>
+          <Property_x0020_Name>FlowDependent</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Property>Length</Property>
+          <Property_x0020_Name>Length</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Property>Normally</Property>
+          <Property_x0020_Name>Normally</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+          <Property>Offset</Property>
+          <Property_x0020_Name>Offset</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+          <Property>OperatorType</Property>
+          <Property_x0020_Name>OperatorType</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+          <Property>ValveAlignment</Property>
+          <Property_x0020_Name>ValveAlignment</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+          <Property>ValveBodyType</Property>
+          <Property_x0020_Name>ValveBodyType</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+          <Property>ValveCode</Property>
+          <Property_x0020_Name>ValveCode</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Valve diffgr:id="Valve16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+          <Property>ValveDetail</Property>
+          <Property_x0020_Name>ValveDetail</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Valve>
+        <Fasteners diffgr:id="Fasteners1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Length</Property>
+          <Property_x0020_Name>Length</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Fasteners>
+        <Gasket diffgr:id="Gasket1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Gasket>
+        <Buttweld diffgr:id="Buttweld1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Buttweld>
+        <Buttweld diffgr:id="Buttweld2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>WeldNumber</Property>
+          <Property_x0020_Name>WeldNumber</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Buttweld>
+        <Socketweld diffgr:id="Socketweld1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Socketweld>
+        <Socketweld diffgr:id="Socketweld2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>WeldNumber</Property>
+          <Property_x0020_Name>WeldNumber</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Socketweld>
+        <FusionWeld diffgr:id="FusionWeld1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </FusionWeld>
+        <FusionWeld diffgr:id="FusionWeld2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>WeldNumber</Property>
+          <Property_x0020_Name>WeldNumber</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </FusionWeld>
+        <TapWeld diffgr:id="TapWeld1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </TapWeld>
+        <TapWeld diffgr:id="TapWeld2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>WeldNumber</Property>
+          <Property_x0020_Name>WeldNumber</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </TapWeld>
+        <ReinforcementRing diffgr:id="ReinforcementRing1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </ReinforcementRing>
+        <BackingRing diffgr:id="BackingRing1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </BackingRing>
+        <Clamp diffgr:id="Clamp1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Clamp>
+        <Collar diffgr:id="Collar1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>FlangeOffset</Property>
+          <Property_x0020_Name>FlangeOffset</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Collar>
+        <Collar diffgr:id="Collar2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Collar>
+        <StubEnd diffgr:id="StubEnd1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>FlangeOffset</Property>
+          <Property_x0020_Name>FlangeOffset</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </StubEnd>
+        <StubEnd diffgr:id="StubEnd2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </StubEnd>
+        <BoltSet diffgr:id="BoltSet1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>BoltCompatibleStd</Property>
+          <Property_x0020_Name>BoltCompatibleStd</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </BoltSet>
+        <BoltSet diffgr:id="BoltSet2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Property>BoltSize</Property>
+          <Property_x0020_Name>BoltSize</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </BoltSet>
+        <BoltSet diffgr:id="BoltSet3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Property>NumberInSet</Property>
+          <Property_x0020_Name>NumberInSet</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </BoltSet>
+        <BoltSet diffgr:id="BoltSet4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </BoltSet>
+        <Thread diffgr:id="Thread1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Thread>
+        <SlipOn diffgr:id="SlipOn1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </SlipOn>
+        <Glue diffgr:id="Glue1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Glue>
+        <Universal diffgr:id="Universal1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Universal>
+        <Gland diffgr:id="Gland1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Property>Shop_Field</Property>
+          <Property_x0020_Name>Shop_Field</Property_x0020_Name>
+          <Update_x0020_Automatically>true</Update_x0020_Automatically>
+        </Gland>
+      </NewDataSet>
+    </diffgr:diffgram>
+  </SizeSettingDataSet>
+  <BeUpdateUserAddedProperty>true</BeUpdateUserAddedProperty>
+  <BeUpdateGeometryProperty>true</BeUpdateGeometryProperty>
+</SpecUpdateSettings>
